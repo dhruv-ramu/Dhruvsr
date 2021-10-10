@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhruvsr
 - 👀 I’m interested in discord.js, chrome extensions
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning LaTeX, JavaScript
 - 📫 How to reach me ... dhruv@geekly.net
 
 <!---
