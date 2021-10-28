@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Dhruvsr
+# Who is @Dhruvsr?
+- 👋 Hi, I’m Dhruv. 
 - 👀 I’m interested in discord.js, chrome extensions
 - 🌱 I’m currently learning LaTeX, JavaScript
 - 📫 How to reach me ... dhruv@geekly.net
