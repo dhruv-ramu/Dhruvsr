@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Dhruv. 
 - 👀 I’m interested in creating bots, chrome extensions and algorithms. 
 - 🌱 I’m currently learning LaTeX, JavaScript
-- 📫 How to reach me ... dhruv@geekly.net
+- 📫 How to reach me ... dhruv@thegeekly.net
 - 👦 Prounouns: he/him
 
 # My Stats:
