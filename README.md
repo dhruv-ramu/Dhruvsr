@@ -1,7 +1,7 @@
 # Who is @Dhruvsr?
 - 👋 Hi, I’m Dhruv. 
 - 👀 I’m interested in creating bots, chrome extensions and algorithms. 
-- 🌱 I’m currently learning LaTeX, JavaScript
+- 🌱 I’m currently learning LaTeX, JavaScript, Python
 - 📫 How to reach me ... dhruv@thegeekly.net
 - 👦 Prounouns: he/him
 
