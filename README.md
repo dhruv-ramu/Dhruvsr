@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🤺 About Me:
 👋 Hi, I’m Dhruv.<br>👀 I’m interested in creating bots, chrome extensions and algorithms.<br>🌱 I’m currently learning LaTeX, JavaScript, Python and ReactJS.<br>📫 How to reach me ... dhruv@thegeekly.net<br>👦 Prounouns: he/him
 
 
