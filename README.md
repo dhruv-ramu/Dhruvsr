@@ -1,5 +1,5 @@
 # 🤺 About Me:
-👋 Hi, I’m Dhruv.<br>👀 I’m interested in creating bots, chrome extensions and algorithms.<br>🌱 I’m currently learning LaTeX, JavaScript, Python and ReactJS.<br>📫 How to reach me ... dhruv@thegeekly.net<br>👦 Prounouns: he/him
+👋 Hi, I’m Dhruv.<br>👀 I’m interested in creating websites, bots, chrome extensions and algorithms.<br>🌱 I’m currently learning JavaScript, Python, LaTeX, and frameworks such as ReactJS.<br>📫 How to reach me ... dhruv@thegeekly.net<br>👦 Prounouns: he/him
 
 
 ## 🌐 Socials:
