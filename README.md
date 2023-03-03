@@ -1,5 +1,5 @@
 # 🤺 About Me:
-👋 Hi, I’m Dhruv Ramu.<br>👀 I’m interested in websites using React, and using my knowledge for social good. <br>🌱 I’m currently learning JavaScript, Python, LaTeX, and frameworks such as ReactJS.<br>📫 How to reach me ... dhruvramu@gmail.com<br>👦 Prounouns: he/him
+👋 Hi, I’m Dhruv Ramu.<br>👀 I’m interested in websites using React, and using my knowledge for social good. <br>🌱 I’m currently learning Python and machine learning! <br>🧑‍💻 I use JavaScript, LaTeX, and frameworks such as ReactJS.<br>📫 How to reach me ... dhruvramu@gmail.com<br>👦 Prounouns: he/him
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-ramu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RamuDhruv) 
